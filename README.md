@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-“ ![oi](https://github.com/NylipekWolf/NylipekWolf/blob/main/demon.png.jpeg "width : 52px ")  “
+“ ![oi](https://github.com/NylipekWolf/NylipekWolf/blob/main/demon.png.jpeg "width : 32px ")  “
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NylipekWolf&_icons=true&theme=midnight-purple)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NylipekWolf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
