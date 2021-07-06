@@ -1,9 +1,13 @@
 # <a href="https://www.linkedin.com/in/kepilyn-santos/">Kepilyn Vinicius</a>
+<img align="left" alt="midias" width="320px" src="https://github.com/NylipekWolf/NylipekWolf/blob/main/train.gif" />
 
 ## About Me
 Tenho 20 anos e atualmente, sou estudante do curso Proa.
 <br>
 Sou um desenvolvedor front-end que almeja ser fullstack. 
+### A espera da minha proxima estação 
+
+<br>
 
 ## Technologies
 - HTML
