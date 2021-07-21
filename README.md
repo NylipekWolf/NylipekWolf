@@ -13,6 +13,7 @@ Sou um desenvolvedor front-end que almeja ser fullstack.
 - HTML
 - CSS
 - Java
+- javascript
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NylipekWolf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
