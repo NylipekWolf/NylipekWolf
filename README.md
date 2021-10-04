@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/kepilyn-santos/">Kepilyn Vinicius</a>
+
 <img align="left"  width="320px" src="https://github.com/NylipekWolf/NylipekWolf/blob/main/train.gif" />
 
 ## About Me
