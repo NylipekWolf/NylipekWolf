@@ -1,5 +1,5 @@
 
-<img align="left"  width="320px" src="https://github.com/NylipekWolf/NylipekWolf/blob/main/train.gif" />
+<img align="left"  width="220px" src="https://github.com/NylipekWolf/NylipekWolf/blob/main/train.gif" />
 
 ## About Me
 Tenho 20 anos e atualmente, sou estudante do curso Proa.
