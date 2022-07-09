@@ -1,6 +1,4 @@
 
-<img align="left"  width="70px" src="https://github.com/NylipekWolf/NylipekWolf/blob/main/train.gif" />
-
 ## About Me
 Tenho 20 anos e atualmente, sou estudante do curso Proa.
 <br>
